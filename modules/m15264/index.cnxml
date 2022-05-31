@@ -1,0 +1,165 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thermochemistry</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>48c9828a-f4f6-4e08-bc90-0ddd571cf3a1</md:uuid>
+</metadata>
+  <content>
+    <section id="id12096362">
+      <title>Thermochemistry</title>
+      <para id="id11609102">We will begin lab in the amphitheatre of DBH</para>
+      <section id="id6836653">
+        <title>Objective</title>
+        <list list-type="bulleted" id="id3152579">
+          <item>To explore heat transfer through calorimetry.</item>
+          <item>To use calorimetry to determine the enthalpy of reaction of a strong acid and a strong base.</item>
+          <item>To use Hess's Law of Heat Summation to determine the heat of hydration in calcium chloride.</item>
+          <item>To explore a common use of heat of reaction in real life.</item>
+        </list>
+      </section>
+      <section id="id12508313">
+        <title>Grading</title>
+        <list list-type="bulleted" id="id11641850">
+          <item>Pre-Lab (10%)</item>
+          <item>Lab Report Form (80%) </item>
+          <item>TA Points (10%) </item>
+        </list>
+      </section>
+      <section id="id12484627">
+        <title>Background Information</title>
+        <para id="id8873554">When two objects at different temperatures are brought into physical contact, thermal energy will spontaneously transfer from the warmer object to the colder object until both objects have achieved the same temperature. Assuming the two objects are thermally insulated from their surroundings, the heat lost by the warm object is identical to the heat gained by the cold object. This is a manifestation of the Law of Conservation of Energy. </para>
+        <para id="id3801656">The heat transfer, q, is a function of the mass of the object (m), the change in temperature undergone by the object (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">ΔT</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔT} {}</m:annotation></m:semantics></m:math>) and the object's specific heat (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>). This statement can be expressed mathematically as</para>
+        <para id="id7633408">q = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi fontstyle="italic">ΔT</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mC" rSub { size 8{s} } ΔT} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8206137">Temperature change is always defined as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>final</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{ ital "final"} } } {}</m:annotation></m:semantics></m:math> - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>initial</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{ ital "initial"} } } {}</m:annotation></m:semantics></m:math>, which means that q for the hotter object (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hot</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{ ital "hot"} } } {}</m:annotation></m:semantics></m:math>) is negative and q for the colder object (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cold</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{ ital "cold"} } } {}</m:annotation></m:semantics></m:math>) is positive. If energy is conserved, then</para>
+        <para id="id12465761"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hot</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{ ital "hot"} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cold</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{ ital "cold"} } } {}</m:annotation></m:semantics></m:math> = 0</para>
+        <para id="id12444392">and</para>
+        <para id="id11967003">(
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi fontstyle="italic">ΔT</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mC" rSub { size 8{s} } ΔT} {}</m:annotation></m:semantics></m:math> )
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hot</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "hot"} } } {}</m:annotation></m:semantics></m:math> + (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi fontstyle="italic">ΔT</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mC" rSub { size 8{s} } ΔT} {}</m:annotation></m:semantics></m:math> )
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cold</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "cold"} } } {}</m:annotation></m:semantics></m:math> = 0</para>
+        <para id="id11977124">Now consider dropping an ice cube into water just warm enough to melt the ice cube but not warm enough to further heat the water from the cube. The observation is that the ice cube melts and the warm water cools to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0°} {}</m:annotation></m:semantics></m:math>C.  It is important to recognize that during the phase change, the temperature of the ice cube does not change. Therefore, it is not possible to use the preceding equation to determine the heat transferred.  Rather, the energy transferred to the ice cube from the warm water affects the phase change. The energy equation is now adjusted to incorporate the enthalpy required to melt the ice cube, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi fontstyle="italic">ΔH</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔH rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> (where f stands for fusion):</para>
+        <para id="id12396469">(
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi fontstyle="italic">ΔT</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mC" rSub { size 8{s} } ΔT} {}</m:annotation></m:semantics></m:math> )
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>warm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "warm"} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi fontstyle="italic">ΔH</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔH rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> = 0</para>
+        <para id="id12428072">It is also possible to have thermal energy when chemical reactions occur. The amount and direction of heat flow is dependant on the chemicals reacting. Using a calorimeter, it is possible to experimentally determine the heat of reaction.</para>
+        <section id="id11626781">
+          <title>Calorimetry</title>
+          <para id="id10598414">In the technique known as constant-pressure calorimetry, enthalpies of phase changes or chemical reactions are determined indirectly by measuring temperature (at constant pressure) changes in a medium, most often water, surrounding the materials undergoing the change. That is, by measuring 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">ΔT</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔT} {}</m:annotation></m:semantics></m:math> of the water one can use the preceding equation to calculate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">ΔH</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔH} {}</m:annotation></m:semantics></m:math> for the process of interest.  Of course, this means one must know the mass of the water used and water's specific heat: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>water</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{ ital "water"} } } {}</m:annotation></m:semantics></m:math> = 4.18 J/(gK).</para>
+          <para id="id6442863">Today in Part I, you will add a strong base to a strong acid, measure the temperature change in the water as the two react, and use that information to calculate the heat of reaction per gram of NaOH. Then convert your experimental value into an enthalpy in kJ/mol (of NaOH). </para>
+          <para id="id11972616">The enthalpy of a reaction might be difficult to obtain directly by experiment but can be determined by measuring (or looking up in tables) the enthalpy changes of reactions which contain the reactants and products in a process governed by Hess's Law of Heat Summation. In Part II of this experiment you are asked to find the enthalpy of hydration of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mi>s</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCl" rSub { size 8{2} }  \( s \) } {}</m:annotation></m:semantics></m:math> the "target reaction" in this manner.</para>
+          <para id="id6499970">Target reaction:  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:msub><m:mn>6H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mi>O</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">⋅</m:mo><m:msub><m:mn>6H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCl" rSub { size 8{2} } +6H rSub { size 8{2} } O= ital "CaCl" rSub { size 8{2} }  cdot 6H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math></para>
+          <para id="id10611124">It cannot be measured directly because of the slow kinetics of the reaction in the solid state. However, the heats of dissolution of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">⋅</m:mo><m:msub><m:mn>6H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCl" rSub { size 8{2} }  cdot 6H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> can be determined and, using Hess's Law, the enthalpy of hydration can be calculated.</para>
+          <para id="id11989652">Theoretical value of the enthalpy of hydration of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> anhydrous is -81.33kJ/mol. Theoretical value of the enthalpy of hydration of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CaCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">⋅</m:mo><m:msub><m:mn>6H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "CaCl" rSub { size 8{2} }  cdot 6H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> is 15.79 kJ/mol.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id8996091">
+      <title>Experimental Procedure</title>
+      <section id="id9028245">
+        <title>Materials Required</title>
+        <list list-type="bulleted" id="id10591350">
+          <item>two Styrofoam cups (serve as the calorimeter)</item>
+          <item>styrofoam cover (top to the calorimeter)</item>
+          <item>conventional or digital thermometer</item>
+          <item>stirring motor and stir bar</item>
+          <item>two large Ziploc bag</item>
+          <item>two plastic spoons</item>
+        </list>
+        <section id="id10772309">
+          <title>Setup of the MicroLab Thermistor</title>
+          <list list-type="bulleted" id="id9937469">
+            <item>Open the MicroLab Program by clicking on the Shortcut to MicroLab.exe tab on the desktop.</item>
+            <item>On the “Choose an Experiment Type” Tab, enter a name for the experiment, and then double click on the MicroLab Experiment icon</item>
+            <item>Click “Add Sensor”, Choose sensor = Temperature (thermistor)</item>
+            <item>Choose an input, click on the red box that corresponds to the port that your thermistor is connected to.</item>
+            <item>Label = Thermistor, sensor units = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>, click next</item>
+            <item>Click “Perform New Calibration”</item>
+            <item>Click “Add Calibration Point” place the thermistor and thermometer in an ice water bath. Wait until the temperature is constant and then read the temperature on the thermometer (to the nearest 0.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>) and enter it into the “Actual Value” box in MicroLab and hit “ok”.</item>
+            <item>Again, Click “Add Calibration Point” place the thermistor and thermometer in warm water bath. Wait until the temperature is constant and then read the temperature on the thermometer (to the nearest 0.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>) and enter it into the “Actual Value” box in MicroLab and hit “ok”.</item>
+            <item>Under Curve Fit Choices , click on “First order (linear)” and then “Accept and Save this Calibration”, when prompted to enter units, set as deg C. Save as your name-experiment-date.</item>
+            <item>Click “Add Sensor”, Choose sensor = Time</item>
+            <item>Choose an input, click on the red box that corresponds any of the Timers.</item>
+            <item>Label = Time 1, click next, click Finish.</item>
+            <item>Left click on thermistor and drag to the Y-axis over “data source two”, also click and drag to column B on the spreadsheet and also click and drag to the digital display window.</item>
+            <item>Left click on Time and drag to the X-axis over “data source one”, also click and drag to column A on the spreadsheet and also click and drag to the digital display window.</item>
+            <item>When you are ready to obtain data, click start. When you are finished collecting data, click stop. To run another trial, click repeat experiment.</item>
+          </list>
+        </section>
+      </section>
+      <section id="id4078373">
+        <title>Part I. Reaction of Strong Acid with Strong Base</title>
+        <list list-type="enumerated" id="id10791364">
+          <item>Weigh the calorimeter (styrofoam cups with lid) WITH a stir bar. Accurately measure 50 mL of 1 M HCl into your calorimeter. Turn on the stirring motor to the medium speed. Fit the thermistor though the cardboard lid to a length such that its tip goes deep into the solution but misses the stir bar. Cover the calorimeter.</item>
+          <item>Start the Acquisition program. You should see successive, constant temperature readings of near room temperature. Accurately measure 50 mL of 1 M NaOH and quickly add it to the acid solution in the Styrofoam cups. Cover the calorimeter.</item>
+          <item>Continue monitoring the temperature change until thermal equilibrium is reached (the temperature stops changing or starts decreasing).</item>
+          <item>Stop the Acquisition program. SAVE YOUR FILE. Remove the cardboard lid, reweigh the calorimeter and record the information on your lab report. </item>
+          <item>Repeat the same procedure (Steps 1-4) two more times. Save all your files. Give them different, distinguishable names.</item>
+        </list>
+        <para id="id6853514">Print off your graphs and use the data to determine the initial and final temperatures. Record all the temperatures to the nearest 0.1
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>. If a slight downward trend appears on the final temperature plateau, use the maximum value achieved. Calculate the average enthalpy of the reaction and standard deviation for the three trials. Then combine your data with the data obtained from the rest of the group and calculate average enthalpy of the reaction and standard deviation for all trials together. Compare your average and standard deviation with that of the larger set and comment on the results obtained using a larger data set. </para>
+      </section>
+      <section id="id11165355">
+        <title>Part II. Enthalpy of Reaction</title>
+        <para id="id10204614"> <link url="http://www.ajdesigner.com/phpstatistics/standard_deviation_sample.php"/></para>
+        <para id="id4383216">The same basic procedure you used in the dry ice sublimation lab will be used here today. </para>
+        <list list-type="enumerated" id="id11643749">
+          <item>Tare your calorimeter and pour approximately 75 mL of cold water in it. Add stir bar. Record the mass to 3 decimal places. Place the cups on the magnetic stirrer and turn on the stirring motor to a medium rate. Make sure you can fit the thermistor though the styrofoam cover to a length such that its tip goes deep into the water but misses the stir bar but do not insert it. Cover the calorimeter.</item>
+          <item>Start recording data on the MicroLab interface. Let it run for about 10 seconds before putting thermistor through the Styrofoam cover. You should see successive, constant temperature readings of near room temperature. Approximately 5 grams of anhydrous has been weighed for you, record the weight of this plus the weight of the weighing bottle. Then weigh the dry empty weighing bottle. Quickly add to the water and reposition the thermistor and cover assembly. </item>
+        </list>
+        <para id="id10585008"> </para>
+        <para id="id10790480">Note: Since anhydrous absorbs moisture rapidly from the air, close the lids of the bottles securely immediately after using. Dry the spatula each time before weighing the powder and clean the balance of any solid.</para>
+        <list list-type="enumerated" id="id6478554">
+          <item>Continue monitoring the temperature change until thermal equilibrium is reached (the temperature stops changing or starts decreasing).</item>
+          <item>Stop collecting and SAVE YOUR DATA and/or print it.</item>
+          <item>Repeat steps 1-4 two more times. Don’t forget to save your data each time you do a run because it is lost as soon as the next run begins.</item>
+          <item>Repeat the process but replace anhydrous with .</item>
+          <item>Use the data to determine the initial and final temperatures. Record all temperatures to the nearest 0.1 . If a slight downward trend appears on the final temperature plateau, use the maximum value achieved. Calculate the average enthalpy of dissolution and standard deviation. Use Hess’s Law to calculate the heat of hydration of and % error. Then combine your data with the data obtained from the rest of the class and calculate the average enthalpy of dissolution and hydration. </item>
+        </list>
+        <section id="id10370981">
+          <title>Calculations</title>
+          <para id="id12444479">Calculations are similar to those done for the acid-base neutralization reaction. The calculation of is the same as the calculation of , that is:</para>
+          <para id="id9818729">= </para>
+          <para id="id4139848"> </para>
+          <para id="id11813564">qwater can be calculated using water’s specific heat, mass of water and temperature change of water solution:</para>
+          <para id="id9677410"> </para>
+          <para id="id11879716"> </para>
+          <para id="id6834324">In order to account for the mass of anhydrous or hexahydrate, divide by the mass of anhydrous or to get in J/g. Then convert to J/mol.</para>
+        </section>
+      </section>
+      <section id="id7050194">
+        <title>Part III. Chemistry of Life</title>
+        <para id="id8121247">Hot packs and cold packs are a real life example of thermochemistry. Anhydrous magnesium sulfate and ammonium chloride can be used to make “hot/cold” packs similar to those used for sports injuries and in hospitals. Your TA will make a pack from each of the two compounds and pass them around and answer some fundamental thermochemical questions about the reactions involved.</para>
+        <section id="id10546011">
+          <title>TA Procedure</title>
+          <list list-type="bulleted" id="id11690445">
+            <item>Fill two Ziploc bags half way full with water.</item>
+            <item>Put two spoons full of anhydrous magnesium sulfate into one bag and two spoons full of ammonium chloride into the other bag, zip them closed, and shake. </item>
+          </list>
+          <para id="id6936059">Pass the packs around to students and observe the temperature change. </para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

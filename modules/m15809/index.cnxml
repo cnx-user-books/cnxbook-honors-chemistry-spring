@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Acid and Bases to Buffers</title>
+  <metadata>
+  <md:content-id>m15809</md:content-id><md:title>Acid and Bases to Buffers</md:title>
+  <md:abstract/>
+  <md:uuid>8e348d5c-e821-492f-8439-0a8525aecf42</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m15809/latest/Report.doc" strength="3">Report</link>
+      <link url="http://cnx.org/content/m15809/latest/PreLab.doc" strength="3">PreLab</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id11679168">
+      <title>Acids and Bases to Buffers</title>
+      <section id="id11679175">
+        <title>Objective</title>
+        <list id="id11679181" list-type="bulleted">
+          <item>To reinforce the importance of titration as an analytical tool.</item>
+          <item>To graphically verify the number of donated protons per molecule of phosphoric acid.</item>
+          <item>To prepare a phosphate buffer and realize the importance of buffers in our everyday life.</item>
+        </list>
+      </section>
+      <section id="id11679206">
+        <title>Grading</title>
+        <list id="id11679212" list-type="bulleted">
+          <item>Pre-Lab (10%)</item>
+          <item>Lab Report Form (80%)</item>
+          <item>TA Points (10%)</item>
+        </list>
+      </section>
+      <section id="id11679232">
+        <title>Background Information</title>
+        <para id="id11679238">Phosphoric acid (H<sub>3</sub>PO<sub>4</sub>) is a chemical that is commonly found in everyday products such as soft drinks and cleaning agents. It is called a <emphasis effect="italics">polyprotic</emphasis> acid because it can donate more than one proton (H<sup>+</sup> ion) per phosphoric acid molecule. The released protons combine with water to form hydronium ions (H<sub>3</sub>O<sup>+</sup>).</para>
+        <para id="id11679300">Phosphoric acid releases its protons in a step-wise manner:</para>
+        <para id="id11679306">H<sub>3</sub>PO<sub>4</sub> + H<sub>2</sub>O 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>↔</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{↔} {}</m:annotation></m:semantics></m:math> H<sub>3</sub>O<sup>+</sup><sub>­</sub> + H<sub>2</sub>PO<sub><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{4} }  rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math></sub>  K<sub>a1</sub> = 7.5 ´10<sup>-3</sup>  (1)</para>
+        <para id="id11679516">H<sub>2</sub>PO<sub>4</sub><sup>-</sup> + H<sub>2</sub>O 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>↔</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{↔} {}</m:annotation></m:semantics></m:math> H<sub>3</sub>O<sup>+</sup><sub>­ </sub>+ HPO<sub><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{4} }  rSup { size 8{2 - {}} } } {}</m:annotation></m:semantics></m:math></sub>  K<sub>a2</sub> = 6.2´10<sup>-8</sup>   (2)</para>
+        <para id="id15394108">HPO<sub><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{4} }  rSup { size 8{2 - {}} } } {}</m:annotation></m:semantics></m:math></sub><sup/>+ H<sub>2</sub>O 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>↔</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{↔} {}</m:annotation></m:semantics></m:math> H<sub>3</sub>O<sup>+</sup><sub>­ </sub>+ PO<sub><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{4} }  rSup { size 8{3 - {}} } } {}</m:annotation></m:semantics></m:math></sub>  K<sub>a3</sub> = 4.2´10<sup>-13</sup>  (3)</para>
+        <para id="id15394365">For example, reaction (2) will not occur until reaction (1) is complete.</para>
+        <para id="id15394371">The K<sub>a</sub> values listed after each reaction are called acid ionization constants. They indicate the relative ease with which each reaction occurs. A small K<sub>a</sub> value shows that a reaction does not occur easily. The K<sub>a</sub> value for phosphoric acid’s second donated proton is much smaller than for the first donated proton, while the third K<sub>a</sub> is five orders of magnitude smaller than the second.</para>
+        <para id="id15394420">To determine the amount of acid in an unknown sample, you will need to add a known amount of base until the acid and base are neutralized. This technique is known as <emphasis effect="italics">titration</emphasis>, and it is widely used in chemistry and other natural sciences.</para>
+        <para id="id15394444">During a titration, the pH of the solution is constantly monitored while the known acid or base (called the titrant) is slowly added to the unknown solution. The pH of the unknown solution will stay fairly constant until the moles of titrant added equals the moles of unknown acid or base. When the moles of acid and base are the same, further additions of titrant will cause a dramatic change in pH until the pH eventually stabilizes. A graph of pH versus added titrant is called a <emphasis effect="italics">titration curve</emphasis>, and the point at which the pH changes drastically is called the <emphasis effect="italics">equivalence point</emphasis>.</para>
+        <para id="id15394477">The titration curve for a polyprotic acid will have more than one equivalence point. As the added base completely removes each proton from the acid, the pH will jump significantly. Figure 1 shows the titration curve for ascorbic acid, a polyprotic acid also known as Vitamin C:</para>
+        <para id="id15394486">Figure 1. Titration curve for ascorbic acid.</para>
+        <figure id="id15394498">
+          <media id="id15394498_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-3769.png" id="id15394498__onlineimage" height="231" width="250"/>
+          </media>
+        </figure>
+        <para id="id15394526">2<sup>nd</sup> equiv.point</para>
+        <para id="id15394569"/>
+        <para id="id15394591">1<sup>st</sup> equiv.point</para>
+        <para id="id15394634">By graphing the pH versus volume of base added during an acid-base titration, you can easily see the successive ionization steps taking place. To find the concentration of a polyprotic acid, the volume of base required to reach the first equivalence point is needed. The half-equivalence points on this graph can also be used to obtain the K<sub>a</sub> value of each successive ionization.</para>
+        <para id="id15394655">In the third part of the lab, you will be making a buffer solution. Buffers are important in everyday life because they regulate the pH in our blood, keeping the pH between 7.35 and 7.45; if pH values for our blood go outside this range, death can result. A buffer is composed of a weak acid and its conjugate base (or a weak base and its conjugate acid). When a strong acid or base is added to a buffer, one of the species will react to maintain the pH within a small range.</para>
+        <para id="id15394680">To determine the amount of conjugate acid and base needed to make a buffer of a certain pH, the Henderson-Hasselbach must be employed.</para>
+        <para id="id15394687"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>pH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>pK</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mtext>log</m:mtext></m:mrow></m:mrow><m:mo stretchy="false">(</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>base</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acid</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "pH"= ital "pK" rSub { size 8{a} } +"log" \(  {  { \[  ital "base" \] }  over  { \[  ital "acid" \] } }  \) } {}</m:annotation></m:semantics></m:math> (4)</para>
+        <para id="id16113850">With a given pH and known pK<sub>a</sub>, the solution of the Henderson-Hasselbach equation gives the logarithm of a ratio which can be solved by performing the antilogarithm of pH/pK­<sub>a</sub>.</para>
+        <para id="id16113883"><emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>pH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>pK</m:mtext><m:mstyle fontsize="6pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>base</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">]</m:mo></m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>acid</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ ital "pH" -  ital "pK" rSub { size 6{a} } } } = {  { \[  ital "base" \] }  over  { \[  ital "acid" \] } } } {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="bold"/>(5)</para>
+      </section>
+      <section id="id16114012">
+        <title>Experimental Procedure</title>
+        <section id="id16114018">
+          <title>Materials Required</title>
+          <list id="id16114024" list-type="bulleted">
+            <item>pH electrode and pH 7 buffer for calibration</item>
+            <item>burette</item>
+            <item>250 mL beaker</item>
+            <item>magnetic stirrer</item>
+            <item>0.4 M and 0.1 M NaOH</item>
+            <item>0.2 M phosphoric acid</item>
+            <item>buffer solutions (pH 4 and pH 7)</item>
+          </list>
+        </section>
+      </section>
+      <section id="id16114067">
+        <title>Part I. Demo During PreLab Lecture: Drink Anyone?</title>
+        <list id="id16114078" list-type="enumerated" number-style="arabic">
+          <item>Six wine glasses are filled with the same “mystery” liquid. </item>
+          <item>Each glass takes on a different color of the rainbow, despite the fact that the same liquid was added to each. </item>
+        </list>
+      </section>
+      <section id="id16114108">
+        <title>Part II. Titration of Phosphoric Acid</title>
+        <list id="id16114117" list-type="enumerated" number-style="arabic"><item>Obtain a pH probe and connect it to pH/mV 1 on the Microlab interface. Open the MicroLab program and select “Microlab Experiment.” Choose “Add Sensor.” This will bring up a window where you need to select “pH /D.O.”, click on the appropriate port of the interface, and choose “pH” out of the two options below. To calibrate the pH probe, click “next.”</item>
+	<item>Take a sample of two buffer pH standards at pH 4.00 and 7.00. Calibrate the pH probe with these two solutions. This is done by selecting “Add Calibration Point” and entering the correct pH value noted on the bottle. <emphasis effect="bold">Note that the pH probe should </emphasis><emphasis effect="bold">always be rinsed with deionized water and carefully patted dry before being inserted into a solution so as to avoid cross contamination.</emphasis> A large waste beaker is useful to have for rinsing. After the two points are entered, select linear calibration, and save the calibration data.</item>
+	<item>In a dry beaker, obtain 30 mL of a 0.2 M phosphoric acid solution. Use a graduated cylinder to add 50 mL of deionized water to a 250 mL beaker. Rinse your 10 mL volumetric pipette with the phosphoric acid solution and pipette 10 mL of the acid into the water. Rinse and fill your 25 mL burette with 0.4 M NaOH. The initial burette reading should be 0 mL. Remember to clear the air out of the tip of the burette.</item>
+	<item>Place the beaker on the magnetic stirrer and add a stir bar. Position the burette ready for titration. Insert the pH probe. Turn on the magnetic stirrer and adjust the stirring rate to moderate speed (without allowing the stir bar to splash or hit the probe).</item>
+	<item>On the Microlab main screen choose “Add Sensor” and select “Keyboard” under the sensor drop box. Click “Next.” This will bring up a prompt in which you should enter “KBD” in the top box and “mL” in the bottom “units” box, and then hit “Finish.”</item>
+	<item>Drag the keyboard sensor from the top left of the screen to “Data Source 1” on the x-axis of the graph. Drag the pH sensor to “Data Source 2” on the y-axis of the graph. Drag the pH sensor to the box in the bottom right corner.</item>
+	<item>Click “Start.” Enter your starting volume, 0 mL, in the window that appears, and hit enter. The window will not disappear. Slowly add a small volume of NaOH to the beaker, approximately 0.5 mL, enter the reading on your burette into the box, and hit enter. Repeat this process until both peaks have been observed and the pH has stabilized.</item>
+	<item>To save your data, choose “export data” under File, and select “comma separated value.” For help with plotting the data and derivative of the data see the “Data Analysis” section below.</item>
+</list>
+      </section>
+      <section id="id16114310">
+        <title>Part III. Buffers (Use the same MicroLab program)</title>
+        <list id="id16114318" list-type="enumerated" number-style="arabic"><item>Using equations (4 and 5), calculate the ratio of concentrations of <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HPO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Na" rSub { size 8{2} }  ital "HPO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math></emphasis> and <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NaH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>PO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NaH" rSub { size 8{2} }  ital "PO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math></emphasis> to produce 100 mL of buffer solution with pH = 6.91. Show your calculations to your TA before proceeding. </item>
+	<item>Prepare your buffer solution from 0.1 M <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Na</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HPO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Na" rSub { size 8{2} }  ital "HPO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math></emphasis> and 0.1 M <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NaH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>PO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NaH" rSub { size 8{2} }  ital "PO" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math></emphasis> solutions.</item>
+	<item>Insert the pH probe in your buffer solution and wait until the reading becomes stable and write down the value in your report form. Don’t worry if the pH reading isn’t exactly 6.91. The important thing is that there isn’t a drastic change in pH upon addition of acid or base.</item>
+	<item>Pour 50 mL of the buffer solution into another beaker so that you have two beakers each with 50 mL of your buffer solution. </item>
+	<item>Add 1 mL of 0.1 M NaOH to the first beaker and mix the solution with a glass rod. Wait until the pH reading becomes stable and write down the value in your report form. If the pH of your buffer solution changes by more than 0.3 pH units, you will need to redo the calculations and re-prepare the buffer solution in order to get an acceptable result.</item>
+	<item>Add 1 mL of 0.1 M HCl to the second beaker and mix the solution with the glass rod. Insert the pH probe into the second beaker. Wait until the pH reading becomes stable and write down the value in your lab report form. If the pH of your buffer solution changes by more than 0.3 pH units, you will need to redo the calculations and re-prepare the buffer solution in order to get an acceptable result.</item>
+</list>
+        <para id="id16114732">Data Analysis</para>
+        <para id="id16114737">Two plots need to be made from the data taken in Part II. One plot, pH vs. volume of NaOH, can be made directly from the data that is initially present. The data needs to be further analyzed to make the plot of the first derivative. This plot should be (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math> pH / 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Δ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δ} {}</m:annotation></m:semantics></m:math>vol NaOH) vs. volume of NaOH. Remember to include a title and axis labels.</para>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,524 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Nanotechnology: Ferrofluids to Liquid Crystals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b600795e-a8ac-47e4-be0f-746f25fa0fff</md:uuid>
+</metadata>
+  <content>
+    <section id="id-592015595856">
+      <title>Nanotechnology: Ferrofluids and Liquid Crystals</title>
+      <section id="id-418429926948">
+        <title>Objective</title>
+        <list list-type="bulleted" id="id10669379">
+          <item>To synthesize an aqueous ferrofluid (magnetite) and observe its properties.</item>
+          <item>To understand how nanotechnology affects everyday life. </item>
+          <item>To learn about surfactants and how they work. </item>
+        </list>
+      </section>
+      <section id="id-214826849916">
+        <title>Grading</title>
+        <list list-type="bulleted" id="id7422218">
+          <item>Pre-Lab (10%)</item>
+          <item>Lab Report Form (80%)</item>
+          <item>TA Points (10%)</item>
+        </list>
+      </section>
+      <section id="id-507483588658">
+        <title>Background Information</title>
+        <para id="id10187163">Nanotechnology is the science of controlling matter with dimensions between 1 and 100 nanometers. This includes manipulating individual molecules. It is a multidisciplinary field consisting of physics, biology, chemistry, medicine, engineering, and nearly any other applied science. The prefix nano- means ten to the minus ninth power, or one billionth. There have been great advances in nanotechnology in recent years, and scientists routinely make materials that are only a few nanometers in size, or about 1/80,000 the diameter of a human hair. See Figure 1 to notice how small a nanometer is compared to other common materials.</para>
+        <para id="id11254582">Materials at the nanoscale exhibit interesting optical, electronic, physical, and chemical properties due to their small size. For example, catalysis chemical reactions occur at the surface of bulk material so as particles become smaller, the ratio of the surface area to the volume of the particles increases, thereby making a volume of nanoparticle catalysts more reactive than an equal volume of bulk catalyst. Optical properties of bulk materials are not size dependant, that is no matter what the size of a piece of bulk material it will have the same optical properties. This is not the case for nanomaterials. As you will see in the instructor demo, different sizes of gold nanoparticles exhibit very different colors.</para>
+        <para id="id9996367">In the 1960s NASA Research Centers discovered fluids that could be controlled through the application of a magnetic field. These fluids were developed to confine liquids in space. These nanoparticle fluids are commonly known as ferrofluids and they are still an active area of research. </para>
+        <para id="id7642707">Ferrofluids have many current industrial applications. They are used to dampen vibration in audio loudspeakers, they can behave as liquid O-rings in rotating shaft seals, and they are used in high-speed computer disk drives to eliminate impurities. They also have many potential applications in biomedical, environmental, and engineering fields.</para>
+        <para id="id9019673">
+          <figure id="id10593510">
+            <media id="idp5383888" alt=""><image src="../../media/graphics1-87e7.png" mime-type="image/png" height="463" width="600"/></media>
+          </figure>
+        </para>
+        <para id="id10602457">Figure 1-Obtained from Office of Basic Energy Sciences, US Department of Energy</para>
+        <para id="id6419980">A ferrofluid is a stable colloid suspension of magnetic nanoparticles in a liquid carrier. The nanoparticles are suspended throughout the liquid and have an average size of ~10 nm. It is critical that the nanoparticles are coated with surfactant to prevent the particles from aggregating together. The surfactants must be strong enough to prevent agglomeration even when a magnetic field is applied and they must overcome the intermolecular forces between the nanoparticles. For this reason, a typical ferrofluid contains 5% magnetic nanoparticles, 10% surfactant, and 85% carrier fluid by volume. </para>
+        <figure id="id11335886"><media id="idp945008" alt=""><image src="http://cnx.org/GroupWorkspaces/wg897/m15768/Nano2.jpg" mime-type="image/jpeg" height="183" width="316"/></media>
+        </figure>
+        <para id="id10412498">There are two basic steps in creating a ferrofluid: synthesis of the magnetic solid, magnetite (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Fe</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Fe" rSub { size 8{3} } O rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math>), and suspension in water with the aid of a surfactant. The magnetic particles must be very small on the order of 10 nm (100 Å) in diameter, so that the thermal energy of the particles is large enough to overcome the magnetic interactions between particles. If the particles are too large, magnetic interactions will dominate and the particles will agglomerate. The magnetite will be synthesized by a precipitation reaction that occurs upon mixing 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> with ammonium hydroxide (an aqueous solution of ammonia, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math>). The unbalanced equation for this reaction is as follows:</para>
+        <para id="id10346639">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>__</m:mtext>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>FeCl</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>__</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>FeCl</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>__</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msubsup>
+                              <m:mtext>NH</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>__</m:mtext>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>H</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mi>O</m:mi>
+                      <m:mo stretchy="false">→</m:mo>
+                      <m:mtext>__</m:mtext>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>Fe</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>O</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>__</m:mtext>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mtext>NH</m:mtext>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>Cl</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"__" ital "FeCl" rSub { size 8{3} } +"__" ital "FeCl" rSub { size 8{2} } +"__" ital "NH" rSub { size 8{3} }  rSup { size 8{+{}} } +"__"H rSub { size 8{2} } O rightarrow "__" ital "Fe" rSub { size 8{3} } O rSub { size 8{4} } +"__" ital "NH" rSub { size 8{4} }  ital "Cl"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9181677">The surfactant used in this synthesis is tetramethylammonium hydroxide (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>OH</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N \(  ital "CH" rSub { size 8{3} }  \)  rSub { size 8{4} }  ital "OH"} {}</m:annotation></m:semantics></m:math>). The hydroxide (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>OH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "OH" rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>) ions formed in solution tend to bind to the iron sites on the magnetite particles, creating a net negative charge on each particle. The positively-charged tetramethylammonium ions will then associate with the negatively-charged magnetite particles, forming a kind of shell around each magnetite particle. This charged shell raises the energy required for the particles to agglomerate, stabilizing the suspension.</para>
+        <para id="id10898725">With the help of nanotechnology, liquid crystal displays have become very popular in recent years. Liquid crystal displays (LCD) were first produced by RCA in 1971 and are composed of two glass plates with a liquid crystal material between them. The liquid crystal material is an organic compound that is in a state between a liquid and a solid. Their viscosities are similar to those of liquids and their light scattering and reflection properties are similar to solid crystals. Liquid crystals must be geometrically highly</para>
+        <para id="id10412455">anisotropic (having different optical properties in different directions)-usually long and narrow -but also become an isotropic liquid (same optical properties in all directions) through a stimulus such as a magnetic field, electric field, temperature, or pressure.</para>
+        <para id="id10143089">Liquid crystals have several common phases. The simplest liquid crystal phase is called the nematic phase where the molecules spontaneously order with long axes roughly parallel. It is characterized by a high degree of long range orientational order but no translational order. An uniformly aligned nematic has a preferred direction, often described in terms of a unit vector called the director. The type of phase that a liquid crystal possesses ultimately determines its applications. <note id="idp4680368">Is it really necessary  to  describe the  smetic phase? Many of the students were confused by this.l</note></para>
+        <para id="id4455130">
+          <figure id="id4455133">
+            <media id="idp8104032" alt=""><image src="../../media/graphics3.png" mime-type="image/png" height="123" width="200"/></media>
+          </figure>
+          <figure id="id11423600">
+            <media id="idp3170960" alt=""><image src="../../media/graphics4.png" mime-type="image/png" height="125" width="205"/></media>
+          </figure>
+          <figure id="id10588121">
+            <media id="idp8238832" alt=""><image src="../../media/graphics5.png" mime-type="image/png" height="125" width="200"/></media>
+          </figure>
+        </para>
+        <para id="id10248788">Figure 2 Nematic, smectic-A, and smectic-C liquid crystal phases</para>
+        <para id="id10537740">A subclass of nematic phases that will be investigated in this lab due to its pressure and temperature sensitive properties is the cholestric phase. The distance over which the director rotates to equal 360° is referred to as the chiral pitch and is normally on the order of a few hundred nanometers, or precisely the wavelength of visible light. This allows liquid crystals to selectively reflect light of wavelengths equal to the pitch length, so that a color will be reflected when the pitch is equal to the corresponding wavelength of light in the visible spectrum. Changes in the director orientation between successive layers modifies the pitch length resulting in an alteration of the wavelength of reflected light according to the temperature. The angle at which the director changes can be made larger, and thus tighten the pitch, by increasing the temperature of the molecules, hence giving them more thermal energy. Similarly, decreasing the temperature of the molecules increases the pitch length of the chiral nematic liquid crystal. This makes it possible to build a liquid crystal thermometer that displays the temperature of its environment by the reflected color.</para>
+        <para id="id11063252">
+          <media id="idp6815376" alt=""><image src="../../media/graphics6.png" mime-type="image/png" height="219" width="263"/></media>
+          <media id="idm7347136" alt=""><image src="../../media/graphics7.png" mime-type="image/png" height="135" width="316"/></media>
+        </para>
+      </section>
+      <section id="id-305929144593">
+        <title>Experimental Synthesis</title>
+        <section id="id-0963622529478">
+          <title>Part I. Synthesis of Gold Nanoparticles (DEMO)</title>
+          <para id="id9898022">Chemicals</para>
+          <para id="id10079348">1.0 mM 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HAuCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HAuCl" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> (stored in amber bottle)</para>
+          <list list-type="bulleted" id="id10594587">
+            <item>1% trisodium citrate dihydrate solution </item>
+          </list>
+        </section>
+        <section id="id-305512260638">
+          <title>Nanoparticle Synthesis</title>
+          <list list-type="bulleted" id="id9871105">
+            <item>Add 20 mL of 1.0 mM 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HAuCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HAuCl" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> to a 50 mL Erlenmeyer flask on a stirring hot plate. Add a magnetic stir bar and bring the solution to a boil<note id="idp3431472">The TA’s need to be told to add the citrate as soon as the reaction boils or the solution turns colorless.</note>.</item>
+            <item>Add 2 mL of 1% trisodium citrate dihydrate solution and observe the properties.</item>
+          </list>
+        </section>
+        <section id="id-607223925173">
+          <title>Part II. Synthesis of the Aqueous Ferrofluid (Procedure modified from J. Chem. Edu. 1999, 76, 943-948.)</title>
+          <para id="id10613601">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+      </section>
+    </section>
+    <section id="id-213730992266">
+      <title>Chemicals</title>
+      <para id="id8841745">1 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in 2 M HCl Solution:</para>
+      <para id="id10663926">2 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> in 2 M HCl Solution</para>
+      <list list-type="bulleted" id="id9182533">
+        <item>25% tetramethylammonium hydroxide in water</item>
+      </list>
+      <para id="id9726981">1.0 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> Solution: Dilute at least 200 mL of concentrated ammonium hydroxide with water to 3.0 L) Open containers of ammonia are odorous and their concentration will decrease over periods of time.</para>
+      <para id="id11323368">CAUTION: Ferrofluids can be messy. This particular ferrofluid will permanently stain almost all fabrics. Also DO NOT LET THE MAGNETITES TOUCH THE SURFACE OF THE MAGNET DIRECTLY.</para>
+      <section id="id-588299937869">
+        <title>Magnetite Synthesis</title>
+        <list list-type="bulleted" id="id8262022">
+          <item>In a hood, place 4.0 mL of 1M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> and 1.0 mL of 2M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeCl" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> solution into a 100 mL beaker. Stir on a magnetic stir plate.</item>
+          <item>While stirring, slowly add 50 mL of 1.0 M aqueous 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> solution over a 5 minute period using a buret. Initially a brown precipitate will form followed by a black precipitate, which is magnetite.</item>
+          <item>CAUTION: Even though 1M NH3 is fairly dilute, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> is a strong base.</item>
+          <item>Remove from stirring and immediately use a strong magnet to work the stir bar up the walls of the beaker. Remove the stir bar with a gloved hand being careful not to let it touch the magnet.</item>
+          <item>Allow the magnetite to settle, then decant off the clear liquid into a waste beaker without losing a large amount of precipitate. The settling process can be expedited by placing a strong magnet below the beaker.</item>
+          <item>Transfer the solid to a plastic weighing boat. Rinse out the beaker with a wash bottle.</item>
+          <item>Use a strong magnet to attract the ferrofluid to the bottom of the weigh boat. Carefully decant as much clear liquid as possible into the waste beaker. Rinse again with water from the wash bottle and decant. Repeat the rinsing process a third time. What are you removing by rinsing?</item>
+          <item>Add 1-2 mL of 25% tetramethylammonium hydroxide. Gently stir the solution with a glass stir rod for at least a minute to suspend the solid in the liquid. Use a strong magnet to attract the ferrofluid to the bottom of the weigh boat. Pour off and discard the dark liquid. Move the strong magnet around and again pour off any liquid. If the ferrofluid does not produce spikes, continue to move the strong magnet around, pouring off any liquid.</item>
+        </list>
+      </section>
+      <section id="id-713391378022">
+        <title>Ferrrofluid Properties</title>
+        <list list-type="enumerated" id="id9422508">
+          <item>Hold a magnet underneath the weigh boat that contains the ferrofluid. Move the magnet around the underside of the weigh boat. Move the magnet close to and far from the weigh boat. Record your observations</item>
+          <item>Add a couple of drops of ferrofluid to a small piece of clean paper. Let the solution dry. Once it is dry, bring a strong magnet close to the paper. What happens?</item>
+          <item>Use several different magnets to observe the properties of the ferrofluid and record your observations in your notebook.</item>
+        </list>
+      </section>
+      <section id="id-355251935575">
+        <title>Part III. Synthesis of Cholesteryl Ester Liquid Crystals</title>
+        <para id="id10189345">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-34214642096">
+        <title>Chemicals</title>
+        <list list-type="bulleted" id="id10099032">
+          <item>Cholesteryl oleyl carbonate</item>
+          <item>Cholesteryl pelargonate</item>
+        </list>
+        <list list-type="bulleted" id="id10186003">
+          <item>Cholesteryl benzoate</item>
+          <item>Vials</item>
+          <item>Heat gun</item>
+        </list>
+      </section>
+      <section id="id-147234492749">
+        <title>Liquid Crystal Synthesis</title>
+        <list list-type="enumerated" id="id10884213">
+          <item>Place 0.65 g cholesteryl oleyl carbonate, 0.25 g cholesteryl pelargonate, and 0.10 g cholesteryl benzoate in a vial.</item>
+          <item>In a hood, with the cap off, melt the solid in with a heat gun.</item>
+          <item>While the mixture is still a liquid, divide it into separate vials using a disposable pipette. Put the caps back on the vials. Allow the vials to cool and observe their properties.</item>
+          <item>Clean up your bench area.</item>
+          <item>Listed below is a chart of the different ratios that produce liquid crystals with different transition temperatures. Placing liquid crystals with different transition temperatures next to each other on a clear piece of contact paper makes it possible to make a thermometer.</item>
+        </list>
+        <para id="id9760269">
+          <table id="id8985058" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Cholesteryl oleyl carbonate (g)</entry>
+                  <entry>Cholesteryl pelargonate (g)</entry>
+                  <entry>Cholesteryl benzoate (g)</entry>
+                  <entry>Transition range, degrees C</entry>
+                </row>
+                <row>
+                  <entry>0.65</entry>
+                  <entry>0.25</entry>
+                  <entry>0.10</entry>
+                  <entry>17-23</entry>
+                </row>
+                <row>
+                  <entry>0.70</entry>
+                  <entry>0.10</entry>
+                  <entry>0.20</entry>
+                  <entry>20-25</entry>
+                </row>
+                <row>
+                  <entry>0.45</entry>
+                  <entry>0.45</entry>
+                  <entry>0.10</entry>
+                  <entry>26.5-30.5</entry>
+                </row>
+                <row>
+                  <entry>0.43</entry>
+                  <entry>0.47</entry>
+                  <entry>0.10</entry>
+                  <entry>29-32</entry>
+                </row>
+                <row>
+                  <entry>0.44</entry>
+                  <entry>0.46</entry>
+                  <entry>0.10</entry>
+                  <entry>30-33</entry>
+                </row>
+                <row>
+                  <entry>0.42</entry>
+                  <entry>0.48</entry>
+                  <entry>0.10</entry>
+                  <entry>31-34</entry>
+                </row>
+                <row>
+                  <entry>0.40</entry>
+                  <entry>0.50</entry>
+                  <entry>0.10</entry>
+                  <entry>32-35</entry>
+                </row>
+                <row>
+                  <entry>0.38</entry>
+                  <entry>0.52</entry>
+                  <entry>0.10</entry>
+                  <entry>33-36</entry>
+                </row>
+                <row>
+                  <entry>0.36</entry>
+                  <entry>0.54</entry>
+                  <entry>0.10</entry>
+                  <entry>34-37</entry>
+                </row>
+                <row>
+                  <entry>0.34</entry>
+                  <entry>0.56</entry>
+                  <entry>0.10</entry>
+                  <entry>35-38</entry>
+                </row>
+                <row>
+                  <entry>0.32</entry>
+                  <entry>0.58</entry>
+                  <entry>0.10</entry>
+                  <entry>36-39</entry>
+                </row>
+                <row>
+                  <entry>0.30</entry>
+                  <entry>0.60</entry>
+                  <entry>0.10</entry>
+                  <entry>37-40</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </para>
+      </section>
+    </section>
+    <section id="id-778810984571">
+      <title>Pre-Lab: Nanotechnology</title>
+      <para id="id10163069">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-494104078597">
+      <title>(Total 10 Points)</title>
+      <para id="id5824903">Hopefully <link url="http://PreLabENano07.doc/">here</link> for the Pre-Lab</para>
+      <para id="id11097514">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id9757604">Name(Print then sign): ___________________________________________________</para>
+      <para id="id10373237">Lab Day: ___________________Section: ________TA__________________________</para>
+      <section id="id-529504096486">
+        <title>Part I. Demo of Gold Nanoparticles</title>
+        <list list-type="enumerated" id="id10133901">
+          <item>In a 3 nm gold particle, what percentage of the atoms are on the surface? Hint: You need to find the radius of a single gold atom and the equation for the volume of a sphere is also helpful.<foreign/>Remember that the volume of a shell is Vshell=4/3πr3 (r3-(r-2r)3).<note id="idp3729856">I am giving them this because all the students had trouble with this. The other things are easier to find but this isn’t.</note></item>
+        </list>
+        <para id="id8982249"/>
+        <para id="id10375351"/>
+        <para id="id11343590"/>
+        <para id="id11135276"/>
+        <para id="id11306194"/>
+      </section>
+      <section id="id-392992206518">
+        <title>Part II. Synthesis of an Aqueous Ferrofluid</title>
+        <list list-type="enumerated" id="id11124178">
+          <item>How would you make a 100 mL solution of 1.0 M 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> in 2.0 M HCl from 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>FeCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">⋅</m:mo><m:msub><m:mn>6H</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "FeCl" rSub { size 8{3} }  cdot 6H rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> and concentrated HCl solution? Show all calculations. Hint: First find volume of water needed to make concentrated HCl ~12.1 M</item>
+        </list>
+        <para id="id9684154"/>
+        <para id="id11049644"/>
+        <para id="id10593204"/>
+        <para id="id5142900"/>
+      </section>
+      <section id="id-978245285766">
+        <title>Part III. Liquid Crystal Synthesis</title>
+        <list list-type="enumerated" id="id11333813">
+          <item>In your own words, explain what a liquid crystal is.</item>
+        </list>
+        <para id="id6556453"/>
+        <para id="id10133760"/>
+        <para id="id11178109"/>
+        <para id="id9931777"/>
+        <para id="id10613577"/>
+      </section>
+    </section>
+    <section id="id-0941824864266">
+      <title>Report: Nanotechnology</title>
+      <para id="id11450037">On my honor, in preparing this report, I know that I am free to use references and consult with others. </para>
+      <para id="id11089170">Hopefully <link url="http://ReportNano07.doc/">here</link> for the Report Form</para>
+      <para id="id6917945">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id7983655">Name(Print then sign): ___________________________________________________</para>
+      <para id="id10593776">Lab Day: ___________________Section: ________TA__________________________</para>
+      <section id="id-63951018905">
+        <title>Part I. Demo of Gold Nanoparticles</title>
+        <list list-type="enumerated" id="id10232947">
+          <item>What was the starting color of the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>HAuCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HAuCl" rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> solution?</item>
+        </list>
+        <para id="id9898011"/>
+        <para id="id11110981"/>
+        <para id="id11036826"/>
+        <list list-type="enumerated" id="id10248409">
+          <item>What was the beginning oxidation state of Au?</item>
+        </list>
+        <para id="id11333532"/>
+        <para id="id10149953"/>
+        <para id="id10896972"/>
+        <list list-type="enumerated" id="id10160425">
+          <item>What was the ending oxidation state of Au?</item>
+        </list>
+        <para id="id9760808"/>
+        <para id="id9914320"/>
+        <para id="id10603480"/>
+        <list list-type="enumerated" id="id11333686">
+          <item>What is the purpose of the sodium citrate solution?</item>
+        </list>
+        <para id="id10955024"/>
+        <para id="id10890051"/>
+        <para id="id10341077"/>
+        <para id="id9183106"/>
+        <list list-type="enumerated" id="id10872421">
+          <item>What is the total surface area of 3 g of 5 nm gold particles assuming gold has a density of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>3g</m:mn><m:mo stretchy="false">/</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>cm</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "." 3g/ ital "cm" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>?</item>
+        </list>
+        <para id="id10159488"/>
+        <para id="id9390120"/>
+        <para id="id10239231"/>
+        <para id="id10160324"/>
+        <para id="id10573962"/>
+        <list list-type="enumerated" id="id10954001">
+          <item>What is the total surface area of 3 g of 5 micrometer gold particles assuming gold has a density of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>3g</m:mn><m:mo stretchy="false">/</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>cm</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "." 3g/ ital "cm" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>?</item>
+        </list>
+        <para id="id10287323"/>
+        <para id="id10287310"/>
+        <para id="id11130301"/>
+        <para id="id11130288"/>
+      </section>
+      <section id="id-54163068238">
+        <title>Part II. Synthesis of an Aqueous Ferrofluid</title>
+        <para id="id11036284"/>
+        <list list-type="enumerated" id="id11175041">
+          <item>Write out the over-all balanced equation for the ferrofluid synthesis. </item>
+        </list>
+        <para id="id11175018"/>
+        <para id="id8192618"/>
+        <para id="id11267401"/>
+        <list list-type="enumerated" id="id10573974">
+          <item>Why did we rinse the nanoparticles three times with water (what are you specifically removing)?</item>
+        </list>
+        <para id="id10232221"/>
+        <para id="id10846288"/>
+        <list list-type="enumerated" id="id10545205">
+          <item>What is the purpose of the surfactant? Chemically explain the process.</item>
+        </list>
+        <para id="id10890246"/>
+        <para id="id11185836"/>
+        <para id="id8107052"/>
+        <para id="id7923153"/>
+        <list list-type="enumerated" id="id10192024">
+          <item>Other than those listed, what are three uses for ferrofluids.</item>
+        </list>
+        <para id="id10159457"/>
+        <para id="id11187794"/>
+      </section>
+      <section id="id-784814265456">
+        <title>Part III. Liquid Crystal Synthesis</title>
+        <list list-type="enumerated" id="id7624312">
+          <item>As the color of the liquid crystal changes, what is happening to the pitch length?</item>
+        </list>
+        <para id="id10255694"/>
+        <para id="id11063330"/>
+        <para id="id8502018"/>
+        <list list-type="enumerated" id="id8167468">
+          <item>If the color is green and changes to red, chemically/physically explain what has happened to the liquid crystal and be specific.<foreign/>.Hint: Look at the wavenmber values assigned to each color. Does this correspond to a temperature increase or decrease? Why?</item>
+        </list>
+        <para id="id10649431"/>
+        <para id="id6890117"/>
+        <para id="id8488726"/>
+        <para id="id10052132"/>
+        <list list-type="enumerated" id="id8678879">
+          <item>A student measures 0.66 g cholesteryl oleyl carbonate, 0.69 g cholesteryl pelargonate, 0.15 g cholesteryl benzoate and combines them to make a liquid crystal. What is the most likely transition temperature?</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

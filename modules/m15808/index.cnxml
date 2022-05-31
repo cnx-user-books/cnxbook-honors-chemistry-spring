@@ -1,0 +1,259 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Forensics Lab</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8bb219fe-6c5d-4080-b46f-f2a99eb4e102</md:uuid>
+</metadata>
+  <content>
+    <section id="id-487413065833">
+      <title>Forensic Lab </title>
+      <section id="id-419017160942">
+        <title>Objective</title>
+        <list list-type="bulleted" id="id4028062">
+          <item>To appreciate the variety of tests available to the Forensic Scientists </item>
+          <item>To observe latent fingerprinting development </item>
+          <item>To studyink identification </item>
+          <item>To do a breathalyzer analysis </item>
+        </list>
+      </section>
+      <section id="id-403836276485">
+        <title>Introduction</title>
+        <section id="id-883661428512">
+          <title>Part 1. Latent Fingerprint Development </title>
+          <para id="id4028114">The earliest recognition of the uniqueness of fingerprints and their suitability for personal identification came from the ancient Chinese, who employed a thumbprint in lieu of a signature on legal conveyances and even criminal confessions. Since literacy was uncommon, this proved a practical measure. The first scientific recognition of fingerprints in the West came in the 17th century, when the first studies on fingerprints were published in England and Italy. Two hundred years later Sir Francis Galton published a book, Finger Prints, were he proposed that no two fingers have identical ridge characteristics and fingerprints remain unchanged during the individual’s lifetime. Today the practice of utilizing fingerprints as means of identification is an indispensable aid to modern law enforcement.Fingerprints have been the reason for the solving of a vast amount of cases. Crime scene fingerprints fall into three types:</para>
+          <para id="id4028150">1. Patent or visible impressions occur as the result of transferring a foreign material (paint, grease, blood or ink) coating the skin of the fingers to the object.2. Plastic or molded impressions are deposited when the hands, fingers or feet are pressed into a soft rubbery type material (wax, putty, clay or tar) that will retain the impression of the ridge pattern in this material.3. Latent or hidden impressions are left on polished surfaces such as wood, metal or glass by the sweat-moist ridges of the fingertips. Since latent fingerprints are not visible to the naked eye, they need to be developed using one of the following techniques:</para>
+          <para id="id4028169">‘Powder and brush’ technique: The surface is dusted with a very fine powder that sticks to the oils and perspiration that are left behind from the friction ridges of the skin. Some surfaces, however, absorb this powder and the fingerprints are not identifiable.</para>
+          <para id="id4028178">Laser luminescence: Involves illumination of fingerprints which fluoresce due to particles picked up during everyday life such as paints, inks and oil. It can be used on metals, plastic, cloth and wood.</para>
+          <para id="id4028186">Ninhydrin test: Indantrione hydrate is sprayed onto the fingerprint where it reacts with the amino acids, giving a dark purple deposit. It can be used to develop very old prints (made over 30 years ago). </para>
+          <para id="id4028193">Iodine vapor: Can be used to develop fingerprints on fabrics and rough surfaces. Iodine vapor alone is useful only for prints up to 24 hours old, however a mixture of the vapor with steam allows this method to be effective for up to two months. Prints developed by this method disappear rapidly, so it works well in situations where you want to conceal your work.</para>
+          <para id="id4028204">Most fingerprint development techniques are based on specific chemical reactions between the oily residues of a latent print and an applied chemical. The product of the reaction will have a new composition that is more visible and can be photographed to compare to other prints. A simple chemical method for fingerprint development is cyanoacrylate fuming.</para>
+          <para id="id4028214">The active ingredient in superglue is cyanoacrylate. To cure for adhesive applications, it only needs hydroxyl ions, which are found in any trace amounts of water making superglue applicable to most materials. With the help of water, cyanoacrylate molecules undergo anionic polymerization to make a very strong plastic mesh. In crime scene investigations, superglue reacts with the traces of amino acids, glucose, sweat, fatty acids, and proteins in the latent fingerprint and the moisture in the air to produce a visible, sticky white material that forms along the ridges of the fingerprint. The final result is an image of the entire latent fingerprint.</para>
+          <para id="id4028229">In order for cyanoacrylate to react with amino acids and sweat, it must be in the gaseous state. It has a boiling point between 49 °C and 65 °C so low heating can vaporize it. The presence of moisture in the air can expedite the reaction with the latent print. The main components of the vaporizing chamber will be shown under procedure; a) glass dish to contain fumes b) vial with water to provide moisture c) hot plate on low heat and d) bottom of aluminum can to hold superglue. </para>
+          <para id="id4028248">Silver nitrate: Silver nitrate reacts with chlorides in the fingerprints, to give the insoluble salt, silver chloride, which rapidly turns black on exposure to light. This method is not suitable for fabrics or rough surfaces.</para>
+          <para id="id4028256">After developing the latent impression it is photographed and lifted with a clear tape to be placed on a backing card with a contrasting background. It can then be entered into a computer, which allows it to be quickly and easily recalled and compared to the fingerprint of a suspect. Identification depends on showing a minimum of twelve matching characteristics in the ridge pattern. When these points of comparison are shown, it is considered that the proof of identity has been established.In this lab you will be developing your fingerprints using 2 methods: the first uses iodine vapor whereas the second uses fuming cyanoacrylate</para>
+        </section>
+        <section id="id-646349109514">
+          <title>Part 2. Identification of Inks</title>
+          <para id="id4028280">In document examination, the examination of inks often plays an important part. As a rule, the examination centers on the question as to whether the ink of certain passages or of alternations in the text is identical with the ink found in the possession of the suspect. For this reason the examination of questioned documents seldom consists of a complete determination of the inks in question but is usually restricted to a comparative examination of certain properties of these inks.Many different nondestructive techniques of the examination of inks are available: reflected infrared radiation, reflectance microspectrophotometry, lasers and scanning electron microscopy. Unfortunately, the reflectance methods are often subject to interference effects from “bronzing” or “sheering” of the ink.Semi-destructive methods involve high-performance liquid chromatography (HPLC) and thin layer chromatography (TLC). Most chromatographic techniques are based on the minute sampling of a single written character representative of the questioned text. Small samples of ink bearing paper are removed from the document, they are then extracted with a suitable solvent, and the components of the solution are separated using HPLC and TLC. If the inks being compared show different composition, they did not come from the same pen.In this lab you will be separating dyestuffs of several ballpoint pens using thin layer chromatography. Comparison of the dye composition will allow you to find out which pen was used by your TA to spot the TLC plate. </para>
+        </section>
+        <section id="id-758002904137">
+          <title>Part 3. Invisible Ink</title>
+          <para id="id4028330">Invisible ink has been used to conceal secret messages for a long time. Many different liquids can be used as invisible inks such as lemon juice, milk, vinegar or a solution of phenolphthalein. </para>
+        </section>
+        <section id="id-438613459247">
+          <title>Part 4. Breathalyzer</title>
+          <para id="id4028345">To determine whether a driver is driving under the influence of alcohol, law enforcement officers perform a Breathalyzer test to measure the blood alcohol content of the bloodstream. In the breath analyzer test, a breath sample is passed through a solution containing acidified potassium dichromate 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Cr</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>O</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( K rSub { size 8{2} }  ital "Cr" rSub { size 8{2} } O rSub { size 8{7} }  \) } {}</m:annotation></m:semantics></m:math>, which is bright yellow. Potassium dichromate, a strong oxidizing agent, oxidizes ethyl alcohol to acetic acid (vinegar). The chromium is consequently reduced from the VI to the III oxidation state, which is green. The unbalanced equation for this reaction is </para>
+          <equation id="id4028450">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>Cr</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msubsup>
+                              <m:mi>O</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>7</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:msup>
+                              <m:mi>H</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:msub>
+                            <m:mi>C</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:msub>
+                          <m:mi>H</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>OH</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mo stretchy="false">→</m:mo>
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msup>
+                                <m:mtext>Cr</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>3</m:mn>
+                                      <m:mo stretchy="false">+</m:mo>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>CH</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mtext>CO</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow>
+                          <m:mi>H</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:msub>
+                            <m:mi>H</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mi>O</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ ital "Cr" rSub { size 8{2} } O rSub { size 8{7} }  rSup { size 8{2 - {}} } +H rSup { size 8{+{}} } +C rSub { size 8{2} } H rSub { size 8{5} }  ital "OH" rightarrow  ital "Cr" rSup { size 8{3+{}} } + ital "CH" rSub { size 8{3} }  ital "CO" rSub { size 8{2} } H+H rSub { size 8{2} } O} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </equation>
+          <para id="id4028662"> </para>
+          <para id="id4028667">The amount of alcohol in a breath analyzer sample is therefore proportional to the amount of potassium dichromate that is used up and also therefore to the loss of yellow color. </para>
+          <para id="id4028674">The Blood Alcohol Concentration (BAC) may then be calculated from the equation</para>
+          <para id="id4030646">BAC = 0.8 A/WR</para>
+          <para id="id4030650">Where W is a body weight of the individual being tested, A is the amount of alcohol in the body (in mL) and R is a “Widmark R Factor”, approximately 0.68 for men and 0.55 for women.In most states, a BAC of 0.1 percent is sufficient to be convicted for driving under the influence of alcohol; in some states the threshold BAC is even lower. </para>
+          <para id="id4030666">Part 5: Blood Stain Analysis Using Chemiluminescence</para>
+          <para id="id4030671">Investigators often find bloodstains during their examination of a crime scene. They also find stains that could be similar substance, something other then blood, such as red paint. How would you test a stain to see if it is blood? Human blood contains a pigment called hemoglobin, which is used to transport oxygen through our body. This pigment is used by number of tests to identify the presence of blood. One most common test used by investigators that reveals the presence of blood is the Luminol Test. In this test the bloodstain can be made to glow with a blue light due to chemiluminescent reaction of the luminol reagent with the iron (Fe) in the hemoglobin. Chemiluminescence is the reversed case of photoreaction: by a chemical reaction, an excited particle is formed, which looses its energy by producing a light quantum of light. The most important characteristic is that the light is emitted in cold. In other words, chemiluminescence happens when a molecule capable of fluorescing is raised to an excited level during a chemical reaction. Upon its return to the ground state, energy in the form of light is emitted. Luminol is one of the most outstanding molecules that emit appreciable amounts of light.</para>
+          <para id="id4030702">Experimental Procedure</para>
+          <para id="id4030710">Part 1a: Latent Fingerprint Development using Iodine vapors </para>
+          <para id="id4030716">Caution! Iodine vapors are poisonous and should not be inhaled. Keep the jar with iodine in the fume hood at all times.</para>
+          <para id="id4030722">1. Press you finger onto a piece of filter paper.</para>
+          <para id="id4030727">2. Using tweezers, place the filter paper into a jar with iodine and recap it.</para>
+          <para id="id4030734">3. When you can see the fingerprint clearly, remove the filter paper using tweezers and keep it until the end of the lab.</para>
+          <para id="id4030740">Part 1b: Latent Fingerprint Development using fuming cyanoacrylate. </para>
+          <figure id="id4030752"><media id="idp4103760" alt=""><image src="../../media/Figure1.jpg" mime-type="image/jpeg" height="235" width="301"/></media>
+          </figure>
+          <para id="id4030774">Materials</para>
+          <para id="id4030778">Large hotplate</para>
+          <para id="id4030782">Large glass dish for fuming chamber</para>
+          <para id="id4030786">Metal Cans (2)</para>
+          <para id="id4030791">Superglue
+Water
+</para>
+          <para id="id4030795">Glass slide</para>
+          <para id="id4030801">Experimental Procedures</para>
+          <para id="id4030805">***This experiment should be conducted in the hood***</para>
+          <list list-type="enumerated" id="id4030810"><item>Place finger prints on glass slide. Alternately, small objects that contain fingerprints can be placed in the chamber.</item>
+            <item>Make sure one pan has water in it.</item>
+            <item>Place a drop of superglue the size of a nickel onto the other can top.</item>
+            <item>Place glass slide inside the fuming chamber.</item>
+            <item>Turn the hotplate on low and allow the fingerprints to develop for approximately ten minutes.</item>
+            <item>Turn the hotplate off and remove the fingerprint specimen. Allow it to cure for approximately 5 minutes.</item>
+          </list>
+          <para id="id4030853">Caution! Overheating cyanoacrylate can produce highly toxic hydrogen cyanide gas. The reaction should take place in a well ventilated area with the hot plate on low.</para>
+          <para id="id4030860">Caution! Superglue can bond instantly to fingers and other body parts. Take caution in using it. In the event of an inadvertent bonding, use acetone to soften the glue.</para>
+          <para id="id4030867"/>
+          <para id="id4030882">Part 2: Ink Identification</para>
+          <para id="id4030886">1. Obtain a precut TLC plate. Do not touch the white surface and handle carefully only by the edges.</para>
+          <para id="id4030894">2. Using a pencil, draw a light line across the shorter dimension 1 cm from the bottom. Using a ruler as a guide on the line, mark off five equally spaced intervals on the line as shown in Figure 1.</para>
+          <figure id="id4030904"><media id="idm2743328" alt=""><image src="../../media/graphics2-683a.jpg" mime-type="image/jpeg" height="192" width="112"/></media>
+          </figure>
+          <para id="id4030926">Figure 2. TLC plate</para>
+          <para id="id4030930">3. Scribble on a small piece of paper with each of the pens and dissolve the ink with a drop of ethanol.  The dissolved ink can now be spotted onto a pencil line drawn in step 2. Repeat step 3 for each pen. Do exactly the same procedure for the unknown writing sample that you can obtain from your TA.
+</para>
+          
+          <para id="id4030950">4. Use a 400 mL beaker for the development chamber. Add the solvent mixture (ethyl acetate/ethanol/water) to the beaker to a depth of about 0.5 cm. Remember: the level of the solvent must be below the spots on the plate. Using tweezers or forceps, place the spotted plate in the development chamber so that it rests in the solvent and against the beaker wall. Cover the beaker (with a paper towel) and allow the plate to develop. It might take more than 10 min, so you can proceed with Part 3 and Part 4.</para>
+          <para id="id4030963">5. When the solvent has risen on the plate to within 1 cm from the top, remove the plate from the beaker with tweezers or forceps. Using a pencil, mark the position of the solvent front.</para>
+          <para id="id4030972">6. Allow the plate to air dry and observe the colored separation. Note how many dye components make up the individual pens. </para>
+          <para id="element-201">Part 3: Invisible Ink</para><para id="id4030979">8. Using a millimeter ruler, measure the distance that each spot (use the center of each spot for consistency) has traveled relative to the solvent front. Calculate the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> values for each spot.
+Part 3: Invisible Ink</para>
+          <para id="id4031039">Method 1</para>
+          <para id="id4031043">1. Pour a little milk in a beaker. Soften the point of a toothpick in the milk and write a letter or a message with it. Do not use too much milk otherwise the paper will wrinkle. Let the paper dry completely.</para>
+          <para id="id4031052">2. Place the piece of paper on a warm hot plate and wait until the message appears.</para>
+          <para id="id4031057">Method 2</para>
+              <para id="id4031068">1. Cornstarch has been prepared for you by mixing 1 g of cornstarch with 10 mL of water in a beaker and stir until smooth.</para>
+          <para id="id4031074">2. Heat the prepared mixture for several minutes. Soften the point of a toothpick in the mixture and write a letter or a message with it. Let the paper dry.</para>
+          <para id="id4031082">3. To observe the message, place it in a jar with iodine vapor in the hood. Recap the jar and let it stand for more than 1 minute.</para>
+          <para id="id4031089">Method 3</para>
+          <para id="id4031093">1. Pour about 5 mL of phenolphthalein solution in a beaker. Soften the point of a toothpick in the solution and write a letter or a message with it. Allow the paper to dry.</para>
+          <para id="id4031101">2. To read the invisible writing, dip a small piece of cotton wool into the 1 M NaOH solution and carefully wipe the paper (do not rub!).</para>
+          <para id="id4031108">Part 4: Breathalyzer </para>
+          <para id="id4031112">Caution! Sodium dichromate is a strong oxidizing agent. Avoid contact with the skin.</para>
+          <para id="id4031117">1. Pour 2 mL of ethyl alcohol into a test tube and add 2 mL of acidic sodium dichromate solution. Mix gently and record your observations.</para>
+          <para id="id4031124">Part 5:Luminol Analysis</para>
+          <para id="id4031128">1. The luminol solution (solution 1) has been prepared for you by dissolving 0.1g of Luminol in 20 ml of 10% NaOH in a 50 ml beaker and diluting this solution to 200ml in your spray bottle and set aside.</para>
+          <para id="id4031135">2. The fake “blood” solution (solution 2) has been prepared for you by dissolving 0.5g of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Fe</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K rSub { size 8{3} }  \[  ital "Fe" \(  ital "CN" \)  rSub { size 8{6} }  \] } {}</m:annotation></m:semantics></m:math> in 20 ml of 5% hydrogen peroxide solution. </para>
+          <para id="id4031232">3. In the hood blacked out by construction paper smear some “blood” (K3[Fe(CN)6] in 5% hydrogen peroxide) onto a piece of paper towel with a cotton swab. (make sure you are wearing gloves)</para>
+          <para id="id4031243">4. Quickly spray the wet “blood” stain with the luminol solution (solution 1) and close the hood to the point that you can barely see at the bottom and record your observation.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
